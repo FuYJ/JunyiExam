@@ -1,17 +1,18 @@
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
+#include <deque>
 using namespace std;
 
-string str;
-
-void reverseArray(string str);
+char ch;
+deque<char> squre;
+deque<string> element;
 
 int main(){
-    cin >> str;
-    reverseArray(str);
-}
-
-void reverseArray(string str){
-    if()
+    
+    while(1){
+        ch = getchar();
+        if()
+    }
+    
 }
